@@ -1,0 +1,1079 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version V2.1.5 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="MBC 1">
+    <display-name lang="en">MBC 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="MBC 2">
+    <display-name lang="en">MBC 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 1">
+    <display-name lang="en">beiN Sports 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nashe Kino">
+    <display-name lang="en">Nashe Kino</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="2M Maroc">
+    <display-name lang="en">2M Maroc</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Aaj TV">
+    <display-name lang="en">Aaj TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="ABP News">
+    <display-name lang="en">ABP News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Al Emarat">
+    <display-name lang="en">Abu Dhabi Al Emarat</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Al Oula">
+    <display-name lang="en">Abu Dhabi Al Oula</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Al Oula +1">
+    <display-name lang="en">Abu Dhabi Al Oula +1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Drama">
+    <display-name lang="en">Abu Dhabi Drama</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Poet">
+    <display-name lang="en">Abu Dhabi Poet</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 1">
+    <display-name lang="en">Abu Dhabi Sports 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 2">
+    <display-name lang="en">Abu Dhabi Sports 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 3 HD">
+    <display-name lang="en">Abu Dhabi Sports 3 HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 4 HD">
+    <display-name lang="en">Abu Dhabi Sports 4 HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 5 HD">
+    <display-name lang="en">Abu Dhabi Sports 5 HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 6 HD">
+    <display-name lang="en">Abu Dhabi Sports 6 HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 7 HD">
+    <display-name lang="en">Abu Dhabi Sports 7 HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports 8 HD">
+    <display-name lang="en">Abu Dhabi Sports 8 HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Abu Dhabi Sports Extra">
+    <display-name lang="en">Abu Dhabi Sports Extra</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Ajman">
+    <display-name lang="en">Ajman</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Aan">
+    <display-name lang="en">Al Aan</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Ahly Club">
+    <display-name lang="en">Al Ahly Club</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Aqsa">
+    <display-name lang="en">Al Aqsa</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Arabiya">
+    <display-name lang="en">Al Arabiya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Arabiya Al Hadath">
+    <display-name lang="en">Al Arabiya Al Hadath</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Arabiya HD">
+    <display-name lang="en">Al Arabiya HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Baghdadia">
+    <display-name lang="en">Al Baghdadia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Dafrah">
+    <display-name lang="en">Al Dafrah</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Diyar">
+    <display-name lang="en">Al Diyar</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Forat">
+    <display-name lang="en">Al Forat</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Ghadeer">
+    <display-name lang="en">Al Ghadeer</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Hayat">
+    <display-name lang="en">Al Hayat</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Hayat 2">
+    <display-name lang="en">Al Hayat 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Hayat Cinema">
+    <display-name lang="en">Al Hayat Cinema</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al hayat Mosalsalat">
+    <display-name lang="en">Al hayat Mosalsalat</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Hurra">
+    <display-name lang="en">Al Hurra</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Hurra Iraq">
+    <display-name lang="en">Al Hurra Iraq</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Iraqiya">
+    <display-name lang="en">Al Iraqiya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Jazeera">
+    <display-name lang="en">Al Jazeera</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Jazeera Documentary">
+    <display-name lang="en">Al Jazeera Documentary</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Jazeera Mubasher">
+    <display-name lang="en">Al Jazeera Mubasher</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Jazeera Mubasher Misr">
+    <display-name lang="en">Al Jazeera Mubasher Misr</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Kahera  Wal Nas">
+    <display-name lang="en">Al Kahera  Wal Nas</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Kahera  Wal Nas +2">
+    <display-name lang="en">Al Kahera  Wal Nas +2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Kass">
+    <display-name lang="en">Al Kass</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Kawthar">
+    <display-name lang="en">Al Kawthar</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Maghribia">
+    <display-name lang="en">Al Maghribia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Majd">
+    <display-name lang="en">Al Majd</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Majd Al Hadeeth Al Nabawy">
+    <display-name lang="en">Al Majd Al Hadeeth Al Nabawy</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Majd Holy Quran">
+    <display-name lang="en">Al Majd Holy Quran</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Manar">
+    <display-name lang="en">Al Manar</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Masriya">
+    <display-name lang="en">Al Masriya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Mustakillah">
+    <display-name lang="en">Al Mustakillah</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Nahar">
+    <display-name lang="en">Al Nahar</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Nahar Drama">
+    <display-name lang="en">Al Nahar Drama</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Nahar Movies">
+    <display-name lang="en">Al Nahar Movies</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Nahar Sports">
+    <display-name lang="en">Al Nahar Sports</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Quds">
+    <display-name lang="en">Al Quds</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Rai">
+    <display-name lang="en">Al Rai</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Rayyan">
+    <display-name lang="en">Al Rayyan</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Resalah">
+    <display-name lang="en">Al Resalah</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Saeeda">
+    <display-name lang="en">Al Saeeda</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Saha 1">
+    <display-name lang="en">Al Saha 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Saha 2">
+    <display-name lang="en">Al Saha 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Saha 3">
+    <display-name lang="en">Al Saha 3</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Sharqiya">
+    <display-name lang="en">Al Sharqiya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Shorooq TV">
+    <display-name lang="en">Al Shorooq TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Sumaria">
+    <display-name lang="en">Al Sumaria</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Watan">
+    <display-name lang="en">Al Watan</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Al Watan Plus">
+    <display-name lang="en">Al Watan Plus</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Alafasy">
+    <display-name lang="en">Alafasy</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Alalam">
+    <display-name lang="en">Alalam</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="ARD">
+    <display-name lang="en">ARD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Arirang TV">
+    <display-name lang="en">Arirang TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Art Hekayat">
+    <display-name lang="en">Art Hekayat</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Art Hekayat 2">
+    <display-name lang="en">Art Hekayat 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="arte">
+    <display-name lang="en">arte</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="ARY Digital">
+    <display-name lang="en">ARY Digital</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="ARY News">
+    <display-name lang="en">ARY News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Arzaq Anbar">
+    <display-name lang="en">Arzaq Anbar</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="B4U Aflam">
+    <display-name lang="en">B4U Aflam</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="B4U Plus">
+    <display-name lang="en">B4U Plus</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="en">Baby TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Baraem">
+    <display-name lang="en">Baraem</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="BBC Arabic">
+    <display-name lang="en">BBC Arabic</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="BBC Persian">
+    <display-name lang="en">BBC Persian</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports">
+    <display-name lang="en">beiN Sports</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 10">
+    <display-name lang="en">beiN Sports 10</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 2">
+    <display-name lang="en">beiN Sports 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 3">
+    <display-name lang="en">beiN Sports 3</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 4">
+    <display-name lang="en">beiN Sports 4</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 5">
+    <display-name lang="en">beiN Sports 5</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 7">
+    <display-name lang="en">beiN Sports 7</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 8">
+    <display-name lang="en">beiN Sports 8</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports 9">
+    <display-name lang="en">beiN Sports 9</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports HD">
+    <display-name lang="en">beiN Sports HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports HD1">
+    <display-name lang="en">beiN Sports HD1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports HD2">
+    <display-name lang="en">beiN Sports HD2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="beiN Sports News">
+    <display-name lang="en">beiN Sports News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Bro">
+    <display-name lang="en">Bro</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="BVN">
+    <display-name lang="en">BVN</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Canal 24 Horas">
+    <display-name lang="en">Canal 24 Horas</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Canal Algérie">
+    <display-name lang="en">Canal Algérie</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Canale 5">
+    <display-name lang="en">Canale 5</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Cartoon Network Arabia">
+    <display-name lang="en">Cartoon Network Arabia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="CBC">
+    <display-name lang="en">CBC</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="CBC Drama">
+    <display-name lang="en">CBC Drama</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="CCTV 4">
+    <display-name lang="en">CCTV 4</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="CCTV Arabic">
+    <display-name lang="en">CCTV Arabic</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Channel V China">
+    <display-name lang="en">Channel V China</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Cinema One Global">
+    <display-name lang="en">Cinema One Global</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="City7 TV">
+    <display-name lang="en">City7 TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="CNBC Arabiya">
+    <display-name lang="en">CNBC Arabiya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Colors TV">
+    <display-name lang="en">Colors TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="CricOne">
+    <display-name lang="en">CricOne</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dawn News">
+    <display-name lang="en">Dawn News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Decision Makers">
+    <display-name lang="en">Decision Makers</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Deepam TV">
+    <display-name lang="en">Deepam TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="DM Digital">
+    <display-name lang="en">DM Digital</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dream 1">
+    <display-name lang="en">Dream 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dream 2">
+    <display-name lang="en">Dream 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dubai One">
+    <display-name lang="en">Dubai One</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dubai Racing">
+    <display-name lang="en">Dubai Racing</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dubai Sports 1">
+    <display-name lang="en">Dubai Sports 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dubai Sports 2">
+    <display-name lang="en">Dubai Sports 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dubai Sports HD">
+    <display-name lang="en">Dubai Sports HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Dubai Television">
+    <display-name lang="en">Dubai Television</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="DW">
+    <display-name lang="en">DW</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="El Mehwar 1">
+    <display-name lang="en">El Mehwar 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="ERT World">
+    <display-name lang="en">ERT World</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Euro Sports News">
+    <display-name lang="en">Euro Sports News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Fatafeat">
+    <display-name lang="en">Fatafeat</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="FOX HD">
+    <display-name lang="en">FOX HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Fox Movies">
+    <display-name lang="en">Fox Movies</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Fox Movies HD">
+    <display-name lang="en">Fox Movies HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Fox Sports">
+    <display-name lang="en">Fox Sports</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="France 24 - Arabic">
+    <display-name lang="en">France 24 - Arabic</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="France 24 - French">
+    <display-name lang="en">France 24 - French</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Funoon">
+    <display-name lang="en">Funoon</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Future TV">
+    <display-name lang="en">Future TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="FX">
+    <display-name lang="en">FX</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="GEM TV">
+    <display-name lang="en">GEM TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Hannibal">
+    <display-name lang="en">Hannibal</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Heya">
+    <display-name lang="en">Heya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="High TV 3D">
+    <display-name lang="en">High TV 3D</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Huda TV">
+    <display-name lang="en">Huda TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Hum TV">
+    <display-name lang="en">Hum TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="I Film">
+    <display-name lang="en">I Film</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="iConcerts HD">
+    <display-name lang="en">iConcerts HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Ikono HD">
+    <display-name lang="en">Ikono HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Imagine Movies">
+    <display-name lang="en">Imagine Movies</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Indus Vision">
+    <display-name lang="en">Indus Vision</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Iqraa">
+    <display-name lang="en">Iqraa</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Italia 1">
+    <display-name lang="en">Italia 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Jeem">
+    <display-name lang="en">Jeem</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Jordan Television">
+    <display-name lang="en">Jordan Television</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="JSTV">
+    <display-name lang="en">JSTV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="JSTV2">
+    <display-name lang="en">JSTV2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Karusel">
+    <display-name lang="en">Karusel</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="KBS World">
+    <display-name lang="en">KBS World</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Khyber News">
+    <display-name lang="en">Khyber News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Khyber TV">
+    <display-name lang="en">Khyber TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="LBC">
+    <display-name lang="en">LBC</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="LBC Europe">
+    <display-name lang="en">LBC Europe</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="LDC">
+    <display-name lang="en">LDC</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Life OK">
+    <display-name lang="en">Life OK</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Luxe TV HD">
+    <display-name lang="en">Luxe TV HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Massaya">
+    <display-name lang="en">Massaya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Mazhavil Manorama International">
+    <display-name lang="en">Mazhavil Manorama International</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="MBC 3">
+    <display-name lang="en">MBC 3</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="MBC 4">
+    <display-name lang="en">MBC 4</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="MBC Action">
+    <display-name lang="en">MBC Action</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="MBC Drama">
+    <display-name lang="en">MBC Drama</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="MBC MAX">
+    <display-name lang="en">MBC MAX</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Moga Comedy TV">
+    <display-name lang="en">Moga Comedy TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="MTV Lebanon">
+    <display-name lang="en">MTV Lebanon</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="National Geographic Abu Dhabi">
+    <display-name lang="en">National Geographic Abu Dhabi</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="National Geographic Channel HD">
+    <display-name lang="en">National Geographic Channel HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="National Geographic Wild">
+    <display-name lang="en">National Geographic Wild</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="NationAl Geographic Wild HD">
+    <display-name lang="en">NationAl Geographic Wild HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="NBN">
+    <display-name lang="en">NBN</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nessma">
+    <display-name lang="en">Nessma</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="New TV">
+    <display-name lang="en">New TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile Cinema">
+    <display-name lang="en">Nile Cinema</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile Comedy">
+    <display-name lang="en">Nile Comedy</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile Drama">
+    <display-name lang="en">Nile Drama</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile Family and Kids">
+    <display-name lang="en">Nile Family and Kids</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile Life">
+    <display-name lang="en">Nile Life</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile News">
+    <display-name lang="en">Nile News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile Sports">
+    <display-name lang="en">Nile Sports</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Nile TV International">
+    <display-name lang="en">Nile TV International</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Noor Dubai">
+    <display-name lang="en">Noor Dubai</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="NTV MIR">
+    <display-name lang="en">NTV MIR</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Oman Sport">
+    <display-name lang="en">Oman Sport</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Oman TV">
+    <display-name lang="en">Oman TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="ON TV Live">
+    <display-name lang="en">ON TV Live</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Orient TV">
+    <display-name lang="en">Orient TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN Action HD">
+    <display-name lang="en">OSN Action HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN First HD">
+    <display-name lang="en">OSN First HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN Movies Comedy HD">
+    <display-name lang="en">OSN Movies Comedy HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN Movies Festival">
+    <display-name lang="en">OSN Movies Festival</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN Movies HD">
+    <display-name lang="en">OSN Movies HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN Movies Kids">
+    <display-name lang="en">OSN Movies Kids</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN Premier">
+    <display-name lang="en">OSN Premier</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OSN Yahala! Shabab HD">
+    <display-name lang="en">OSN Yahala! Shabab HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="OTV">
+    <display-name lang="en">OTV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Panorama Drama">
+    <display-name lang="en">Panorama Drama</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Peace TV">
+    <display-name lang="en">Peace TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Physique TV">
+    <display-name lang="en">Physique TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="PMC Music">
+    <display-name lang="en">PMC Music</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Qatar TV">
+    <display-name lang="en">Qatar TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="R1">
+    <display-name lang="en">R1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rafidain">
+    <display-name lang="en">Rafidain</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RAI 1">
+    <display-name lang="en">RAI 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RAI 2">
+    <display-name lang="en">RAI 2</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RAI 3">
+    <display-name lang="en">RAI 3</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rai News">
+    <display-name lang="en">Rai News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rai Storia">
+    <display-name lang="en">Rai Storia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RBK">
+    <display-name lang="en">RBK</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RETE4">
+    <display-name lang="en">RETE4</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Ro'ya">
+    <display-name lang="en">Ro'ya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rotana Aflam">
+    <display-name lang="en">Rotana Aflam</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rotana Cinema">
+    <display-name lang="en">Rotana Cinema</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rotana Khalijia">
+    <display-name lang="en">Rotana Khalijia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rotana Masriya">
+    <display-name lang="en">Rotana Masriya</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rotana Mousica">
+    <display-name lang="en">Rotana Mousica</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Rotana Zaman">
+    <display-name lang="en">Rotana Zaman</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RTG">
+    <display-name lang="en">RTG</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RTR Planeta">
+    <display-name lang="en">RTR Planeta</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="RTVI">
+    <display-name lang="en">RTVI</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Russia Today">
+    <display-name lang="en">Russia Today</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Russia Today - Arabic">
+    <display-name lang="en">Russia Today - Arabic</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Sama Dubai">
+    <display-name lang="en">Sama Dubai</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Saudi 1">
+    <display-name lang="en">Saudi 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Sharjah TV">
+    <display-name lang="en">Sharjah TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="en">Sky News</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Sky News Arabia">
+    <display-name lang="en">Sky News Arabia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Sky News HD">
+    <display-name lang="en">Sky News HD</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Spacetoon">
+    <display-name lang="en">Spacetoon</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Star Plus">
+    <display-name lang="en">Star Plus</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Sudan TV">
+    <display-name lang="en">Sudan TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Syria Drama">
+    <display-name lang="en">Syria Drama</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Syria Satellite Channel">
+    <display-name lang="en">Syria Satellite Channel</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TFC">
+    <display-name lang="en">TFC</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Tiba">
+    <display-name lang="en">Tiba</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Toyour Al Jannah">
+    <display-name lang="en">Toyour Al Jannah</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TRT 1">
+    <display-name lang="en">TRT 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TRT Çocuk">
+    <display-name lang="en">TRT Çocuk</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TRT ETTÜRKÝYYE">
+    <display-name lang="en">TRT ETTÜRKÝYYE</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TRT Muzik">
+    <display-name lang="en">TRT Muzik</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Tunisia 1">
+    <display-name lang="en">Tunisia 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TV 5 Orient">
+    <display-name lang="en">TV 5 Orient</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TV Polonia">
+    <display-name lang="en">TV Polonia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TV1 Iran">
+    <display-name lang="en">TV1 Iran</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TV2 Iran">
+    <display-name lang="en">TV2 Iran</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TV3 Russia">
+    <display-name lang="en">TV3 Russia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TVB8">
+    <display-name lang="en">TVB8</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="TVE Internacional">
+    <display-name lang="en">TVE Internacional</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Twazon">
+    <display-name lang="en">Twazon</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Urdu 1">
+    <display-name lang="en">Urdu 1</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="UTV Movies Arabia">
+    <display-name lang="en">UTV Movies Arabia</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Yemen TV">
+    <display-name lang="en">Yemen TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="ZDF">
+    <display-name lang="en">ZDF</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Zee Aflam">
+    <display-name lang="en">Zee Aflam</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Zee Alwan">
+    <display-name lang="en">Zee Alwan</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+  <channel id="Zee TV">
+    <display-name lang="en">Zee TV</display-name>
+    <url>http://www.shoofeetv.com</url>
+  </channel>
+</tv>
